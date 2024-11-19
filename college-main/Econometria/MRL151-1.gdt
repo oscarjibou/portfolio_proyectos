@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="MRL151" frequency="1" startobs="1" endobs="18" type="cross-section">
+<description>Data imported from Excel, 2018-10-20 18:24
+</description>
+<variables count="2">
+<variable name="CANTIDAD"
+/>
+<variable name="PERDIDAS"
+/>
+</variables>
+<observations count="18" labels="true">
+<obs label="Andalucia">864783.4624 164849.34752 </obs>
+<obs label="Aragon">159399.18358 50797.54202 </obs>
+<obs label="Asturias (Princ">117748.5255 22764.71493 </obs>
+<obs label="Balears (Illes)">90757.775965 22128.220995 </obs>
+<obs label="Canarias">179454.81084 40312.31258 </obs>
+<obs label="Cantabria">82414.9998 16286.77377 </obs>
+<obs label="Castilla y Leon">325796.445 76019.1705 </obs>
+<obs label="Castilla-La Man">207552.56778 35873.28332 </obs>
+<obs label="Cataluna">782479.701825 118416.809475 </obs>
+<obs label="Comunidad Valen">492398.56632 125784.05744 </obs>
+<obs label="Extremadura">114009.162915 17630.282925 </obs>
+<obs label="Galicia">323195.82876 48878.38151 </obs>
+<obs label="Madrid (Comunid">568672.03305 78437.5218 </obs>
+<obs label="Murcia (Region">122960.09551 23027.86241 </obs>
+<obs label="Navarra (Comuni">67610.986335 11776.08771 </obs>
+<obs label="Pais Vasco">275367.16973 71334.67071 </obs>
+<obs label="La Rioja">41551.016 7007.416 </obs>
+<obs label="Ceuta y Melilla">17613.92253 7541.290185 </obs>
+</observations>
+</gretldata>
